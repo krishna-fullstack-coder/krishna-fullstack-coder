@@ -10,7 +10,10 @@
 - 💬 Ask me about **ReactJS, Angular, .Net, C#, Javascript.**
 
 - 📫 How to reach me **krishna.fullstack.coder@gmail.com**
-- https://nileshkrishna.netlify.app/
+
+<h3 align="left">My Profiles</h3>
+ https://nileshkrishna.netlify.app/
+ https://nileshkrishna.vercel.app/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
