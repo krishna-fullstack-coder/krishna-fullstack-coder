@@ -16,7 +16,7 @@
  <div>https://nileshkrishna.vercel.app/</div>
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">email: **krishna.fullstack.coder@gmail.com**
+<p align="left">email: krishna.fullstack.coder@gmail.com
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
