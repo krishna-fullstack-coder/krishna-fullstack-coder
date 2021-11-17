@@ -12,8 +12,8 @@
 - 📫 How to reach me **krishna.fullstack.coder@gmail.com**
 
 <h3 align="left">My Profiles</h3>
- https://nileshkrishna.netlify.app/
- https://nileshkrishna.vercel.app/
+<div> https://nileshkrishna.netlify.app/ </div>
+ <div>https://nileshkrishna.vercel.app/</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
